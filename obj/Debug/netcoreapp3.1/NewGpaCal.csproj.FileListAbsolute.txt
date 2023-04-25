@@ -1,0 +1,14 @@
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\bin\Debug\netcoreapp3.1\NewGpaCal.exe
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\bin\Debug\netcoreapp3.1\NewGpaCal.deps.json
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\bin\Debug\netcoreapp3.1\NewGpaCal.runtimeconfig.json
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\bin\Debug\netcoreapp3.1\NewGpaCal.runtimeconfig.dev.json
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\bin\Debug\netcoreapp3.1\NewGpaCal.dll
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\bin\Debug\netcoreapp3.1\NewGpaCal.pdb
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.csproj.AssemblyReference.cache
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.AssemblyInfoInputs.cache
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.AssemblyInfo.cs
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.csproj.CoreCompileInputs.cache
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.dll
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.pdb
+C:\Users\Dairo.T\Desktop\C# Task\NewGpaCal\obj\Debug\netcoreapp3.1\NewGpaCal.genruntimeconfig.cache
